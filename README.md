@@ -18,13 +18,13 @@ This course is available for free from [freeCodeCamp](https://www.freecodecamp.o
 
 <div align="center">
 
-| N° | Project | Description |
-|-- |-- |-- |
-| 1 | [Timestamp Microservice](./projects/timestamp-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) | 
-| 2 | [Request Header Parser Microservice](./projects/request-header-parser-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice) | 
-| 3 | [URL Shortener Microservice](./projects/url-shortener-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice) | 
-| 4 | [Exercise Tracker](./projects/exercise-tracker/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker) | 
-| 5 | [File Metadata Microservice](./projects/file-metadata-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) | 
+| N° | Project | Description | Preview |
+|-- |-- |-- |-- |
+| 1 | [Timestamp Microservice](./projects/timestamp-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice) | [Replit](https://replit.com/@wesleydamasceno/Timestamp-Microservice?v=1) |
+| 2 | [Request Header Parser Microservice](./projects/request-header-parser-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice) | [Replit](https://replit.com/@wesleydamasceno/Header-Parser?v=1) |
+| 3 | [URL Shortener Microservice](./projects/url-shortener-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice) | [Replit](https://replit.com/@wesleydamasceno/URL-Shortener?v=1) |
+| 4 | [Exercise Tracker](./projects/exercise-tracker/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker) | [Replit](https://replit.com/@wesleydamasceno/boilerplate-project-exercisetracker?v=1) |
+| 5 | [File Metadata Microservice](./projects/file-metadata-microservice/) | [freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice) | [Replit](https://replit.com/@wesleydamasceno/boilerplate-project-filemetadata?v=1) |
 
 </div>
 
